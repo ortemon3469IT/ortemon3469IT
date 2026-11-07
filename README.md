@@ -16,18 +16,38 @@
 
 ---
 
+---
+
+## 📈 Статистика GitHub / GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ortemon3469IT&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ortemon3469IT&layout=compact&theme=radical&hide=html,css" alt="Top Languages" height="175"/>
+</p>
+
+---
 ## 🛠 Технологический стек / Tech Stack
 
-<p align="left">
-  <img src="https://shields.io" alt="Python"/>
-  <img src="https://shields.io" alt="Java"/>
-  <img src="https://shields.io" alt="Kotlin"/>
-  <img src="https://shields.io" alt="JS"/>
-  <img src="https://shields.io" alt="TS"/>
-  <img src="https://shields.io" alt="Postgres"/>
-  <img src="https://shields.io" alt="Ubuntu"/>
-  <img src="https://shields.io" alt="Git"/>
-</p>
+#### Data Engineering & Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PL/pgSQL](https://img.shields.io/badge/PL/pgSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgAdmin 4](https://img.shields.io/badge/pgAdmin_4-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Database Design](https://img.shields.io/badge/DB_Design-Partitioning_%26_RBAC-purple?style=for-the-badge)
+
+#### Languages & Core Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### DevOps & Quality Assurance
+![Linux](https://img.shields.io/badge/Ubuntu_Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 *   **Data Engineering & Databases (Ру):** PostgreSQL, pgAdmin 4, проектирование реляционных баз данных, оптимизация SQL-запросов, обработка и структурирование потоков данных
 *   **Data Engineering & Databases (Eng):** PostgreSQL, pgAdmin 4, relational database design, SQL query optimization, data stream processing and structuring
