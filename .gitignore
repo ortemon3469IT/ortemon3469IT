@@ -217,4 +217,171 @@ marimo/_lsp/
 __marimo__/
 
 # Streamlit
-.streamlit/secrets.toml
+.streamlit/secrets.toml 
+
+# ====================================================================
+# 1. СИСТЕМНЫЙ МУСОР И РЕДАКТОРЫ КОДА (Mac, Windows, Linux, IDE)
+# ====================================================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+
+*.bak
+*.tmp
+*.swp
+*~
+
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.suo
+*.user
+
+# ====================================================================
+# 2. БЕЗОПАСНОСТЬ И КОНФИДЕНЦИАЛЬНОСТЬ (Пароли, API-ключи, логи)
+# ====================================================================
+*.env
+*.env.local
+*.env.*.local
+config.json
+credentials.json
+*.pem
+*.key
+*.pfx
+secrets.*
+jwt_*
+
+*.log
+logs/
+*.sqlite
+
+# ====================================================================
+# 3. ВЕБ-РАЗРАБОТКА И JAVASCRIPT (React, Vue, Angular, Node.js, Next)
+# ====================================================================
+node_modules/
+/jspm_packages/
+.npm/
+.eslintcache
+.stylelintcache
+.parcel-cache
+.turbo/
+.vercel/
+.next/
+.nuxt/
+
+# Папки сборки (Production build)
+dist/
+build/
+out/
+.pnpm-debug.log*
+
+# ====================================================================
+# 4. PYTHON (Django, FastAPI, Data Science, Скрипты)
+# ====================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Виртуальные окружения
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Кастомные папки Jupyter и тестов
+.ipynb_checkpoints
+.pytest_cache/
+.tox/
+.coverage
+htmlcov/
+.dmypy.json
+mypy_cache/
+
+# ====================================================================
+# 5. JAVA / KOTLIN / ANDROID (Spring Boot, Мобильная разработка)
+# ====================================================================
+*.class
+*.bluej
+*.txt
+.mtj.tmp/
+*.jar
+*.war
+*.nar
+*.ear
+*.crash
+
+# Gradle и Maven файлы сборки
+.gradle/
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+
+# Android-специфичные файлы
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+
+# ====================================================================
+# 6. C# / .NET / C++ / UNITY
+# ====================================================================
+bin/
+obj/
+x64/
+x86/
+[Bb]uild/
+[Rr]eleases/
+
+# Unity
+[尝角]ibrary/
+[罢猫]emp/
+[翱猫]bj/
+[叠猫]uild/
+[叠猫]uilds/
+/Assets/AssetStoreTools*
+
+# ====================================================================
+# 7. PHP (Laravel, Symfony, WordPress)
+# ====================================================================
+vendor/
+.phpunit.result.cache
+.php_cs.cache
+ homestead.json
+.vagrant/
+
+# ====================================================================
+# 8. GO (Golang)
+# ====================================================================
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.prof
+/vendor/
+
+# ====================================================================
+# 9. DOCKER & DEPLOY (Если будете оформлять проекты в контейнеры)
+# ====================================================================
+.docker/
+docker-compose.override.yml
+
+
