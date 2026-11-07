@@ -10,8 +10,8 @@
 
 ## 📬 Контакты / Contacts
 
-*   💬 **Telegram:** [@ваш_юзернейм](https://t.me)
-*   📧 **Email:** [ваш_email@example.com](mailto:ваш_email@example.com)
+*   💬 **Telegram:** [@Ortemon_0](https://t.me/Ortemon_0)
+*   📧 **Email:** [ortemon3469@gmail.com](mailto:ortemon3469@gmail.com)
 *   📍 **Локация / Location:** Москва, Россия / Moscow, Russia
 
 ---
