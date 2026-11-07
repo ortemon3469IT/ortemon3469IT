@@ -46,8 +46,24 @@
 
 | Название проекта / Project | Стек технологий / Tech Stack | Описание / Description | Ссылки / Links |
 | :--- | :--- | :--- | :--- |
-| **NardGo** | Java | **Ру:** Проект настольной игры в нарды на языке Java.<br>**Eng:** A backgammon board game project implemented in Java. | [📂 Код / Code](./NardGo/) |
-| **Olimp Prep Web (projectOLimpPrepWEB314)** | HTML, CSS, JavaScript / TypeScript | **Ру:** Веб-страница для подготовки к олимпиадам по программированию.<br>**Eng:** A web-based platform built for competitive programming and olympiad preparation. | [📂 Код / Code](./projectOLimpPrepWEB314/) |
+| **NardGo** | Java | **Ру:** Проект настольной игры в нарды на языке Java.<br>**Eng:** A backgammon board game project implemented in Java. | [📂 Код / Code](./NardGo/) | 
+| **Olimp Prep Web (projectOLimpPrepWEB314)** | HTML, CSS, JavaScript / TypeScript | **Ру:** Веб-страница для подготовки к олимпиадам по программированию.<br>**Eng:** A web-based platform built for competitive programming and olympiad preparation. | [📂 Код / Code](./projectOLimpPrepWEB314/) | 
+| **Gamified Educational Platform DB** | PostgreSQL, PL/pgSQL, pgcrypto, pgAdmin 4 | **Ру:** Реляционная БД образовательной платформы с партиционированием, PL/pgSQL процедурами, триггерами и RBAC.<br>**Eng:** Relational DB for an educational platform featuring partitioning, PL/pgSQL procedures, triggers, and RBAC. | [📂 Код / Code](databaseproj/) |
+
+ ### 📊 Дополнительно о проекте: Gamified Educational Platform Database
+
+<details>
+<summary><b>📐 Нажмите, чтобы посмотреть ER-диаграмму базы данных / Click to view ER Diagram</b></summary>
+
+<br>
+
+![ER-Диаграмма базы данных](databaseproj/prep.png)
+
+</details>
+
+* **Архитектурные особенности:** Партиционирование таблицы решений `user_solutions` по классам (5–8 и 9–11), сложная бизнес-логика в процедуре `submit_answer_v4` (обработка дедлайнов, блокировки `FOR UPDATE`, начисление XP/монет, стриков и титулов).
+* **Безопасность и автоматизация:** Шифрование конфиденциальных данных с помощью `pgcrypto`, триггеры аудита/валидации сложности задач и ролевая модель доступа (RBAC).
+
 
 
 ---
