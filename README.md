@@ -46,9 +46,9 @@
 
 | Название проекта / Project | Стек технологий / Tech Stack | Описание / Description | Ссылки / Links |
 | :--- | :--- | :--- | :--- |
-| **Data Warehouse & Analytics** | PostgreSQL, pgAdmin 4, Python | **Ру:** Проектирование схемы базы данных, очистка сырых данных и построение аналитических отчетов.<br>**Eng:** Database schema design, raw data cleaning, and analytical reporting pipelines. | [📂 Код / Code](./project-data-warehouse/) |
-| **AI Agent Infrastructure** | Python, AI Agents, ML, Bash | **Ру:** Разработка ИИ-агентов, интегрированных с аналитическими скриптами и автоматизацией в Ubuntu.<br>**Eng:** Development of intelligent AI agents integrated with data scripts and Ubuntu automation. | [📂 Код / Code](./project-ai-infra/) |
-| **Full-Stack App with QA Suite** | TS, JS, HTML/CSS, Pytest | **Ру:** Веб-приложение с настроенным пайплайном автоматического тестирования логики и API.<br>**Eng:** Web application built with a configured automation pipeline for testing logic and APIs. | [📂 Код / Code](./project-fullstack-qa/) |
+| **NardGo** | Java | **Ру:** Проект настольной игры в нарды на языке Java.<br>**Eng:** A backgammon board game project implemented in Java. | [📂 Код / Code](./NardGo/) |
+| **Olimp Prep Web (projectOLimpPrepWEB314)** | HTML, CSS, JavaScript / TypeScript | **Ру:** Веб-страница для подготовки к олимпиадам по программированию.<br>**Eng:** A web-based platform built for competitive programming and olympiad preparation. | [📂 Код / Code](./projectOLimpPrepWEB314/) |
+
 
 ---
 
