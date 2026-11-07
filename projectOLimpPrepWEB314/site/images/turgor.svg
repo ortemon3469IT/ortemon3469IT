@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="180" viewBox="0 0 400 180" role="img" aria-label="Турнир городов">
+  <rect width="400" height="180" fill="#2980b9"/>
+  <circle cx="360" cy="150" r="90" fill="#ffffff" fill-opacity="0.10"/>
+  <text x="200" y="103" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="bold" fill="#ffffff" text-anchor="middle">Турнир городов</text>
+</svg>

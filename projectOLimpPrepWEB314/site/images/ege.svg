@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="180" viewBox="0 0 400 180" role="img" aria-label="ЕГЭ">
+  <rect width="400" height="180" fill="#34495e"/>
+  <circle cx="360" cy="150" r="90" fill="#ffffff" fill-opacity="0.10"/>
+  <text x="200" y="103" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="bold" fill="#2ecc71" text-anchor="middle">ЕГЭ</text>
+</svg>
